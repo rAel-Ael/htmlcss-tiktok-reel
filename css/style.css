@@ -21,13 +21,12 @@ body {
 
 }
 
-.icon {
-	
-}
+
 
 .page {
 	display: flex;
 	flex-direction: row;
+	justify-content: space-between;
 }
 
 video {
@@ -69,6 +68,14 @@ footer {
 
 	/* Inserisci qui sotto 
 	le tue regole, se necessario. */
+}
+
+.navigate {
+	color: #fff;
+	align-items: flex-start;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
 }
 
 /* Sidebar */
