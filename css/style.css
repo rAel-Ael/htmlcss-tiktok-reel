@@ -96,6 +96,7 @@ footer {
 	top: 40%;
 	color: #fff;
 	font-size: 20px;
+	align-items: flex-end;
 
 	/* Inserisci qui sotto 
 		le tue regole, se necessario. */
