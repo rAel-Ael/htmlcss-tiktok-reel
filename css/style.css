@@ -36,9 +36,10 @@ video {
 
 	/* Inserisci qui sotto 
 	le tue regole, se necessario. */
+	padding: 0 8px;
 	color: #fff;
 	display: flex;
-	font-size: 20px;
+	font-size: 25px;
 
 
 }
@@ -68,6 +69,7 @@ footer {
 	justify-content: space-evenly;
 	align-items: center;
 	font-size: 20px;
+	text-align: center;
 
 }
 
@@ -119,18 +121,18 @@ da rimuovere una volta concluso
 --------------------- */
 .debug footer {
 	min-height: 100px;
-	border: 2px dashed #fff;
+	border: 2px;
 }
 
 .debug .sidebar {
 	min-width: 80px;
 	min-height: 450px;
-	border: 2px dashed #ff0;
+
 }
 
 .debug .reel-header {
 	min-height: 50px;
-	border: 2px dashed #fff;
+
 }
 
 /* --------------------- */
